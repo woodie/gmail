@@ -1,0 +1,9 @@
+MIDlet-1: Gmail, , Gmail
+MIDlet-Name: Gmail
+MIDlet-Vendor: Netpress.com
+MIDlet-Version: 0.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Icon: icon72x72.png
+MIDlet-Jar-URL: Gmail.jar
+MIDlet-Jar-Size: 9146

@@ -6,4 +6,4 @@ I created this Gmail launcher MIDlet because opening Gmail from an OperaMini boo
 
 Here are the files: [JAD](https://raw.githubusercontent.com/woodie/gmail/master/dist/Gmail.jad), [JAR](https://raw.githubusercontent.com/woodie/gmail/master/dist/Gmail.jad)
 
-![alt text](https://raw.githubusercontent.com/woodie/gmail/master/docs/example.jpg)
+![alt text](https://raw.githubusercontent.com/woodie/gmail/master/docs/icons.jpg) ![alt text](https://raw.githubusercontent.com/woodie/gmail/master/docs/gmail.jpg)

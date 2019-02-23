@@ -4,7 +4,10 @@ I have the new Nokia 3310 3G. Although the app store has a [Mail app](http://ovi
 
 I created this Gmail launcher MIDlet because opening Gmail from an OperaMini bookmark was annoying.
 
-Here are the files: [JAD](https://raw.githubusercontent.com/woodie/gmail/master/dist/Gmail.jad), [JAR](https://raw.githubusercontent.com/woodie/gmail/master/dist/Gmail.jar)
+Here are the files:
+[ZIP](https://raw.githubusercontent.com/woodie/gmail/master/dist/Gmail.zip),
+[JAD](https://raw.githubusercontent.com/woodie/gmail/master/dist/Gmail.jad),
+[JAR](https://raw.githubusercontent.com/woodie/gmail/master/dist/Gmail.jar)
 
 <img src="https://raw.githubusercontent.com/woodie/gmail/master/docs/icons.png" width="250"> <img
      src="https://raw.githubusercontent.com/woodie/gmail/master/docs/gmail.png" width="250">
